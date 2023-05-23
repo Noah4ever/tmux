@@ -1,5 +1,5 @@
 # Tmux Configuration
-![image](https://github.com/Noah4ever/tmux/assets/66632359/d64a5aae-f7d2-476a-bf2b-47fd11cbb6e2)
+![image](https://github.com/Noah4ever/tmux/assets/66632359/557f7ad7-d8bf-401a-a01a-dba3a9525481)
 
 ## Quickstart
 1. Open Tmux
