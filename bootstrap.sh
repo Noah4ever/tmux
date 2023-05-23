@@ -5,7 +5,7 @@ if [ -d "$HOME/.tmux/plugins/tpm" ]; then
     exit
 fi
 
-echo "Cloning tmux plugin manager"
+echo "Cloning tmux plugin manager ($HOME/.tmux/plugins/tpm)"
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
