@@ -5,4 +5,4 @@
 ## Quickstart
 
 1. Clone repo to `$HOME/.config/`
-2. Open Tmux. It could take a while to start (installing all plugins)
+2. Open Tmux. _It could take a while to start (installing all plugins)_
